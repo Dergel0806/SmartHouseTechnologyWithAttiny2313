@@ -1,5 +1,7 @@
 # SmartHouseTechnologyWithAttiny2313
 
+***For demo of the project check `SmartHouseATTinyDEMO.mp4`.***
+
 Based on http://we.easyelectronics.ru/Lifelover/tcp-http-i-tinka.html.
 
 ## Technology stack
